@@ -1,0 +1,9 @@
+NASA_API: 17LT6HvZHgUZnEPmhuAUME9kRtVzSKhrLU9sqRKc
+TMDB: {
+	username: MdHaTter,
+	password: pup ride
+	api_key: 550648f72e5ac8d46e10c4e7c7a77be7
+	api_read_access_token: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1NTA2NDhmNzJlNWFjOGQ0NmUxMGM0ZTdjN2E3N2JlNyIsIm5iZiI6MTcyNjE5NDIxNS43MTk4MTIsInN1YiI6IjY2ZTNhMTAyYzgxYjI0YjNmZTIzZDllNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.oqoMHwnpSe-tUwjESAy-jeIbvGt8bAUoQuSopwMn0e0
+}
+OpenWeather: f828d1c874968d4c67dd0ddc9abdb5c4
+USCensus: 4380f9a5319fc7d6f6fb8dafdbe4c1e165ad1d43
