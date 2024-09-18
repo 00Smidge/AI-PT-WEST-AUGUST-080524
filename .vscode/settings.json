@@ -1,19 +1,19 @@
 {
 	"workbench.colorCustomizations": {
-		"editorGroup.border": "#17a4cd",
-		"panel.border": "#17a4cd",
-		"sash.hoverBorder": "#17a4cd",
-		"sideBar.border": "#17a4cd",
-		"statusBar.background": "#127f9f",
-		"statusBar.border": "#127f9f",
-		"statusBar.debuggingBackground": "#9f3212",
-		"statusBar.debuggingBorder": "#9f3212",
-		"statusBar.debuggingForeground": "#e7e7e7",
-		"statusBar.foreground": "#e7e7e7",
-		"statusBarItem.hoverBackground": "#17a4cd",
-		"statusBarItem.remoteBackground": "#127f9f",
-		"statusBarItem.remoteForeground": "#e7e7e7",
-		"tab.activeBorder": "#17a4cd"
+		"editorGroup.border": "#f2c096",
+		"panel.border": "#f2c096",
+		"sash.hoverBorder": "#f2c096",
+		"sideBar.border": "#f2c096",
+		"statusBar.background": "#eda569",
+		"statusBar.border": "#eda569",
+		"statusBar.debuggingBackground": "#69b1ed",
+		"statusBar.debuggingBorder": "#69b1ed",
+		"statusBar.debuggingForeground": "#15202b",
+		"statusBar.foreground": "#15202b",
+		"statusBarItem.hoverBackground": "#e88a3b",
+		"statusBarItem.remoteBackground": "#eda569",
+		"statusBarItem.remoteForeground": "#15202b",
+		"tab.activeBorder": "#f2c096"
 	},
-	"peacock.color": "#127f9f"
+	"peacock.color": "#eda569"
 }
